@@ -1,0 +1,2 @@
+This is an intermediate level script which can help you to understand essentials of working with HTML tags, 
+how to scrap data from sites, cleaning the messy data and etc. So do not be shy to fork and make contribution.
